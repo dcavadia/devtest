@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\chatgpt",
+    "\\controllers",
+    "\\core",
+    "\\models",
+    "\\unitTests",
+    "\\unitTests\\api",
+    "\\unitTests\\controllers",
+    "\\unitTests\\models"
+  ],
+  "SelectedNode": "\\api\\BuildingRoutes.py",
+  "PreviewInSolutionExplorer": false
+}
